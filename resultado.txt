@@ -1,4 +1,4 @@
-
+[
     {
         "position": 1,
         "name": "G0nZ",
@@ -135494,3 +135494,4 @@
         "headshotLongest": 0,
         "killStreak": 0
     }
+]
