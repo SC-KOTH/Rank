@@ -34034,7 +34034,7 @@
         "name": "VTKINGZOLAS",
         "kills": 1600,
         "deaths": 1554,
-        "longestShot": 4092,
+        "longestShot": 4304,
         "headshotLongest": 2726,
         "killStreak": 14,
         "uid": "76561199527064028"
