@@ -8384,7 +8384,7 @@
         "name": "VTShakabuuum",
         "kills": 2416,
         "deaths": 1996,
-        "longestShot": 503,
+        "longestShot": 5895,
         "headshotLongest": 0,
         "killStreak": 30,
         "uid": "76561198129319042"
