@@ -19350,16 +19350,6 @@
         "uid": "76561198351175422"
     },
     {
-        "position": 1936,
-        "name": "jvrsa",
-        "kills": 145,
-        "deaths": 88,
-        "longestShot": 0,
-        "headshotLongest": 0,
-        "killStreak": 0,
-        "uid": "76561198351296222"
-    },
-    {
         "position": 1937,
         "name": "Well",
         "kills": 5,
