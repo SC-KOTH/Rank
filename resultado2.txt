@@ -34080,7 +34080,7 @@
         "uid": "76561199544299412"
     },
     {
-        "position": 180,
+        "position": 3410,
         "name": "OP Fera",
         "kills": 254,
         "deaths": 64,
