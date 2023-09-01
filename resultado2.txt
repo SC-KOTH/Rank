@@ -34082,8 +34082,8 @@
     {
         "position": 3410,
         "name": "OP Fera",
-        "kills": 254,
-        "deaths": 64,
+        "kills": 366,
+        "deaths": 417,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 34,
