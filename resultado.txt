@@ -28162,11 +28162,11 @@
     {
         "position": 2818,
         "name": "VIEIRA",
-        "kills": 417,
-        "deaths": 988,
-        "longestShot": 1581,
-        "headshotLongest": 1543,
-        "killStreak": 17,
+        "kills": 0,
+        "deaths": 0,
+        "longestShot": 0,
+        "headshotLongest": 0,
+        "killStreak": 0,
         "uid": "76561198981191044"
     },
     {
