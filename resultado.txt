@@ -261,12 +261,12 @@
     },
     {
         "position": 27,
-        "name": "HollowPoint Rippa",
-        "kills": 35,
-        "deaths": 104,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
         "longestShot": 0,
-        "headshotLongest": 3912,
-        "killStreak": 24,
+        "headshotLongest": 0,
+        "killStreak": 0,
         "uid": "76561197980855281"
     },
     {
