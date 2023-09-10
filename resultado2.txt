@@ -14062,11 +14062,11 @@
     {
         "position": 1407,
         "name": "Paoka",
-        "kills": 418,
-        "deaths": 621,
+        "kills": 379,
+        "deaths": 570,
         "longestShot": 0,
         "headshotLongest": 0,
-        "killStreak": 21,
+        "killStreak": 15,
         "uid": "76561198203342252"
     },
     {
