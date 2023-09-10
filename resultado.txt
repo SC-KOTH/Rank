@@ -4851,9 +4851,9 @@
     },
     {
         "position": 486,
-        "name": "S P A N K A ",
-        "kills": 125,
-        "deaths": 170,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 0,
@@ -6881,9 +6881,9 @@
     },
     {
         "position": 689,
-        "name": "BRUTCHUTCHUIS",
-        "kills": 2,
-        "deaths": 8,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 0,
@@ -9191,9 +9191,9 @@
     },
     {
         "position": 920,
-        "name": "Joelson",
-        "kills": 7,
-        "deaths": 1,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 0,
@@ -10821,12 +10821,12 @@
     },
     {
         "position": 1083,
-        "name": "IaMGhostBR",
-        "kills": 1,
-        "deaths": 1,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
         "longestShot": 0,
         "headshotLongest": 0,
-        "killStreak": 1,
+        "killStreak": 0,
         "uid": "76561198132285745"
     },
     {
@@ -19131,12 +19131,12 @@
     },
     {
         "position": 1914,
-        "name": "JesRamos",
-        "kills": 13,
-        "deaths": 23,
-        "longestShot": 552,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
+        "longestShot": 0,
         "headshotLongest": 0,
-        "killStreak": 4,
+        "killStreak": 0,
         "uid": "76561198271400528"
     },
     {
@@ -21501,12 +21501,12 @@
     },
     {
         "position": 2151,
-        "name": "Off-White",
-        "kills": 62,
-        "deaths": 70,
-        "longestShot": 1406,
-        "headshotLongest": 1325,
-        "killStreak": 10,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
+        "longestShot": 0,
+        "headshotLongest": 0,
+        "killStreak": 0,
         "uid": "76561198310822756"
     },
     {
@@ -27171,12 +27171,12 @@
     },
     {
         "position": 2718,
-        "name": "TTeuw Escobar",
-        "kills": 585,
-        "deaths": 1037,
-        "longestShot": 2208,
-        "headshotLongest": 1812,
-        "killStreak": 11,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
+        "longestShot": 0,
+        "headshotLongest": 0,
+        "killStreak": 0,
         "uid": "76561198440817530"
     },
     {
@@ -28411,9 +28411,9 @@
     },
     {
         "position": 2842,
-        "name": "MUDINHOMATADOR",
-        "kills": 11,
-        "deaths": 28,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 0,
@@ -29270,10 +29270,10 @@
         "uid": "76561198844944234"
     },
     {
-        "position": 2928,
-        "name": "Naldinho",
-        "kills": 265,
-        "deaths": 229,
+        "position": 0,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 0,
@@ -37711,12 +37711,12 @@
     },
     {
         "position": 3772,
-        "name": "B4L4 KILL",
-        "kills": 133,
-        "deaths": 49,
-        "longestShot": 846,
-        "headshotLongest": 576,
-        "killStreak": 30,
+        "name": "APAGADO",
+        "kills": 0,
+        "deaths": 0,
+        "longestShot": 0,
+        "headshotLongest": 0,
+        "killStreak": 0,
         "uid": "76561199147371666"
     },
     {
