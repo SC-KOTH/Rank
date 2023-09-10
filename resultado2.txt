@@ -14066,7 +14066,7 @@
         "deaths": 621,
         "longestShot": 0,
         "headshotLongest": 0,
-        "killStreak": 15,
+        "killStreak": 21,
         "uid": "76561198203342252"
     },
     {
