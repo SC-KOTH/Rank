@@ -14062,8 +14062,8 @@
     {
         "position": 1407,
         "name": "Paoka",
-        "kills": 379,
-        "deaths": 570,
+        "kills": 418,
+        "deaths": 621,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 15,
