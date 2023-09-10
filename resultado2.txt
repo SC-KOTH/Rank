@@ -14061,12 +14061,12 @@
     },
     {
         "position": 1407,
-        "name": "APAGADO",
-        "kills": 0,
-        "deaths": 0,
+        "name": "Paoka",
+        "kills": 379,
+        "deaths": 570,
         "longestShot": 0,
         "headshotLongest": 0,
-        "killStreak": 0,
+        "killStreak": 15,
         "uid": "76561198203342252"
     },
     {
