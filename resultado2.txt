@@ -20821,9 +20821,9 @@
     },
     {
         "position": 2083,
-        "name": "Main",
-        "kills": 164,
-        "deaths": 103,
+        "name": "Apagado",
+        "kills": 0,
+        "deaths": 0,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 6,
