@@ -22611,9 +22611,9 @@
     },
     {
         "position": 2262,
-        "name": "Main",
-        "kills": 452,
-        "deaths": 205,
+        "name": "Pagado",
+        "kills": 0,
+        "deaths": 0,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 27,
