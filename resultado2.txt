@@ -20821,7 +20821,7 @@
     },
     {
         "position": 2083,
-        "name": "zerado",
+        "name": "removido",
         "kills": 0,
         "deaths": 0,
         "longestShot": 0,
