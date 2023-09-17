@@ -20821,7 +20821,7 @@
     },
     {
         "position": 2083,
-        "name": "Apagado",
+        "name": "zerado",
         "kills": 0,
         "deaths": 0,
         "longestShot": 0,
