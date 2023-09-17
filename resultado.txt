@@ -22611,7 +22611,7 @@
     },
     {
         "position": 2262,
-        "name": "Pagado",
+        "name": "zerado",
         "kills": 0,
         "deaths": 0,
         "longestShot": 0,
