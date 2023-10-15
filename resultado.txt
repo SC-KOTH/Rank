@@ -34742,11 +34742,11 @@
     {
         "position": 3475,
         "name": "GUSTAVO",
-        "kills": 825,
-        "deaths": 273,
-        "longestShot": 24042,
-        "headshotLongest": 893,
-        "killStreak": 67,
+        "kills": 0,
+        "deaths": 0,
+        "longestShot": 0,
+        "headshotLongest": 0,
+        "killStreak": 0,
         "uid": "76561198250210394"
     },
     {
