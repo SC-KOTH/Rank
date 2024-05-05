@@ -20962,8 +20962,8 @@
     {
         "position": 2097,
         "name": "BD SOJA",
-        "kills": 223,
-        "deaths": 114,
+        "kills": 2533,
+        "deaths": 2101,
         "longestShot": 886,
         "headshotLongest": 0,
         "killStreak": 22,
