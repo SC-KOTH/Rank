@@ -66032,8 +66032,8 @@
     {
         "position": 6604,
         "name": "MK007",
-        "kills": 94,
-        "deaths": 34,
+        "kills": 3182,
+        "deaths": 2739,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 17,
