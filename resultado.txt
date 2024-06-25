@@ -36522,8 +36522,8 @@
     {
         "position": 3653,
         "name": "123",
-        "kills": 6,
-        "deaths": 2,
+        "kills": 3780,
+        "deaths": 2399,
         "longestShot": 0,
         "headshotLongest": 0,
         "killStreak": 5,
