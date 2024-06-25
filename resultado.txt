@@ -5582,8 +5582,8 @@
     {
         "position": 559,
         "name": "Augusto",
-        "kills": 33,
-        "deaths": 16,
+        "kills": 1325,
+        "deaths": 2057,
         "longestShot": 824,
         "headshotLongest": 508,
         "killStreak": 14,
