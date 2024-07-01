@@ -5582,11 +5582,11 @@
     {
         "position": 559,
         "name": "Augusto",
-        "kills": 33,
-        "deaths": 16,
-        "longestShot": 824,
-        "headshotLongest": 508,
-        "killStreak": 14,
+        "kills": 1387,
+        "deaths": 2111,
+        "longestShot": 1045,
+        "headshotLongest": 836,
+        "killStreak": 19,
         "uid": "76561198043868251"
     },
     {
@@ -36522,11 +36522,11 @@
     {
         "position": 3653,
         "name": "123",
-        "kills": 6,
-        "deaths": 2,
-        "longestShot": 0,
-        "headshotLongest": 0,
-        "killStreak": 5,
+        "kills": 3849,
+        "deaths": 2452,
+        "longestShot": 2238,
+        "headshotLongest": 1537,
+        "killStreak": 20,
         "uid": "76561198212957659"
     },
     {

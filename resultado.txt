@@ -12882,11 +12882,11 @@
     {
         "position": 1289,
         "name": "Malbec",
-        "kills": 62,
-        "deaths": 13,
-        "longestShot": 0,
-        "headshotLongest": 0,
-        "killStreak": 12,
+        "kills": 7197,
+        "deaths": 3441,
+        "longestShot": 3172,
+        "headshotLongest": 2650,
+        "killStreak": 70,
         "uid": "76561198077087266"
     },
     {
@@ -18352,11 +18352,11 @@
     {
         "position": 1836,
         "name": "NORONHA",
-        "kills": 15,
-        "deaths": 7,
-        "longestShot": 805,
-        "headshotLongest": 811,
-        "killStreak": 8,
+        "kills": 1512,
+        "deaths": 1340,
+        "longestShot": 2043,
+        "headshotLongest": 1336,
+        "killStreak": 24,
         "uid": "76561198099978308"
     },
     {
