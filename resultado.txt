@@ -52952,11 +52952,11 @@
     {
         "position": 5296,
         "name": "william",
-        "kills": 68,
-        "deaths": 46,
-        "longestShot": 676,
-        "headshotLongest": 0,
-        "killStreak": 21,
+        "kills": 3275,
+        "deaths": 4423,
+        "longestShot": 2354,
+        "headshotLongest": 2387,
+        "killStreak": 31,
         "uid": "76561198277375825"
     },
     {
