@@ -56992,8 +56992,8 @@
     {
         "position": 5700,
         "name": "william",
-        "kills": 87,
-        "deaths": 65,
+        "kills": 3340,
+        "deaths": 4488,
         "longestShot": 676,
         "headshotLongest": 0,
         "killStreak": 21,
