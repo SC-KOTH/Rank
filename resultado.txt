@@ -12741,7 +12741,7 @@
     },
     {
         "position": 1275,
-        "name": "WwWWwwwWWWWwwWWWwwWWwwwW",
+        "name": "[BD] Gui",
         "kills": 41208,
         "deaths": 10398,
         "longestShot": 2552,

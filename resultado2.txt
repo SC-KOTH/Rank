@@ -11871,7 +11871,7 @@
     },
     {
         "position": 1188,
-        "name": "pendrive",
+        "name": "[BD] Gui",
         "kills": 38753,
         "deaths": 9926,
         "longestShot": 2552,
