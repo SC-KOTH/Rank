@@ -47852,11 +47852,11 @@
     {
         "position": 4786,
         "name": "william",
-        "kills": 101,
-        "deaths": 97,
-        "longestShot": 676,
-        "headshotLongest": 0,
-        "killStreak": 21,
+        "kills": 3542,
+        "deaths": 4681,
+        "longestShot": 2354,
+        "headshotLongest": 2387,
+        "killStreak": 31,
         "uid": "76561198277375825"
     },
     {
