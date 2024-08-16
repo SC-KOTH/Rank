@@ -134582,11 +134582,11 @@
     {
         "position": 13459,
         "name": "Look",
-        "kills": 0,
-        "deaths": 6,
-        "longestShot": 0,
-        "headshotLongest": 0,
-        "killStreak": 0,
+        "kills": 1056,
+        "deaths": 844,
+        "longestShot": 1757,
+        "headshotLongest": 998,
+        "killStreak": 40,
         "uid": "76561199553031510"
     },
     {
