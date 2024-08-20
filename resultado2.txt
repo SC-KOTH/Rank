@@ -127983,7 +127983,7 @@
         "position": 12799,
         "name": "PLAYER 1",
         "kills": 1056,
-        "deaths": 844,
+        "deaths": 800,
         "longestShot": 1757,
         "headshotLongest": 998,
         "killStreak": 40,

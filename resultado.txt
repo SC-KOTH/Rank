@@ -52232,11 +52232,11 @@
     {
         "position": 5224,
         "name": "william",
-        "kills": 124,
-        "deaths": 109,
-        "longestShot": 955,
-        "headshotLongest": 0,
-        "killStreak": 21,
+        "kills": 3666,
+        "deaths": 4790,
+        "longestShot": 2354,
+        "headshotLongest": 2387,
+        "killStreak": 31,
         "uid": "76561198277375825"
     },
     {
@@ -137661,12 +137661,12 @@
     },
     {
         "position": 13767,
-        "name": "server",
-        "kills": 0,
-        "deaths": 6,
-        "longestShot": 0,
-        "headshotLongest": 0,
-        "killStreak": 0,
+        "name": "ZOIO",
+        "kills": 1056,
+        "deaths": 800,
+        "longestShot": 1757,
+        "headshotLongest": 998,
+        "killStreak": 40,
         "uid": "76561199553031510"
     },
     {
