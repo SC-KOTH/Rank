@@ -40292,11 +40292,11 @@
     {
         "position": 4030,
         "name": "Maicon",
-        "kills": 4737,
-        "deaths": 2799,
-        "longestShot": 2442,
-        "headshotLongest": 1691,
-        "killStreak": 71,
+        "kills": 0,
+        "deaths": 0,
+        "longestShot": 0,
+        "headshotLongest": 0,
+        "killStreak": 0,
         "uid": "76561198205055107"
     },
     {
