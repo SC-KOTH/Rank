@@ -96402,11 +96402,11 @@
     {
         "position": 9641,
         "name": "SD989",
-        "kills": 20,
-        "deaths": 18,
-        "longestShot": 0,
-        "headshotLongest": 0,
-        "killStreak": 5,
+        "kills": 559,
+        "deaths": 612,
+        "longestShot": 703,
+        "headshotLongest": 670,
+        "killStreak": 11,
         "uid": "76561198263814277"
     },
     {
