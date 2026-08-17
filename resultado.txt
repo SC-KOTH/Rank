@@ -5642,11 +5642,11 @@
     {
         "position": 565,
         "name": "BBS-DRACULA  VAMP PB",
-        "kills": 226,
-        "deaths": 131,
-        "longestShot": 587,
-        "headshotLongest": 0,
-        "killStreak": 13,
+        "kills": 46349,
+        "deaths": 17271,
+        "longestShot": 1375,
+        "headshotLongest": 1612,
+        "killStreak": 57,
         "uid": "76561198011076892"
     },
     {
