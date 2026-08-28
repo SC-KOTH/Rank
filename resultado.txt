@@ -303342,11 +303342,11 @@
     {
         "position": 30335,
         "name": "Miguel Farid",
-        "kills": 0,
-        "deaths": 2,
-        "longestShot": 0,
-        "headshotLongest": 0,
-        "killStreak": 0,
+        "kills": 2432,
+        "deaths": 2618,
+        "longestShot": 1878,
+        "headshotLongest": 1886,
+        "killStreak": 17,
         "uid": "76561199641833098"
     },
     {
